@@ -1,4 +1,4 @@
-console.log(`Este foi criado com a proposta de registrar meus avanços e conhecimentos de programação em JavaScript, conforme aprendizado irei atualizando`);
+console.log(`Este projeto foi criado com a proposta de registrar meus avanços e conhecimentos de programação em JavaScript, conforme aprendizado irei atualizando`);
 //console.log() é usado para exibir algo na tela do computador, é utilizado ",' e `!
 
 //A seguir irei registrar a maneira de criar Blocos, para isso é utilizado o {}, junto aos bloco, será apresentado o const, var e let.
