@@ -21,7 +21,7 @@ console.log(a);
 console.log(b);
 b = 20; //aqui o valor de b será alterado.
 console.log(b);
-const c = 5; //por ser uma constante, não permite alteração por meio do "="
+const c = 15; //por ser uma constante, não permite alteração por meio do "="
 console.log(c);
  
 if(a >= 4) {
