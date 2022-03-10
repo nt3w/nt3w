@@ -16,7 +16,7 @@ console.log("R$" + preco);
 
 //Seguindo com o aprendizado do const, let, vet;
 let a = 5; //let é uma variável, por isso, é pode ser alterado pelo =.
-vet b = 10; //vet também é uma variável e de função semelhante ao let, portanto, podemos usar um ou outro conforme a preferência.
+var b = 10; //var também é uma variável e de função semelhante ao let, portanto, podemos usar um ou outro conforme a preferência.
 console.log(a);
 console.log(b);
 b = 20; //aqui o valor de b será alterado.
