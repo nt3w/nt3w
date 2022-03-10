@@ -24,4 +24,8 @@ console.log(b);
 const c = 5; //por ser uma constante, não permite alteração por meio do "="
 console.log(c);
  
-
+if(a >= 4) {
+    console.log(true); //Numa leitura básica, if(Se) a variável A for maior ou igual a 4 apresentar na tela o True.
+) else {               //else (Se não) apresentar False na tela.
+    console.log(false);
+} 
