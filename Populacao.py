@@ -12,8 +12,8 @@ Taxa_B = 0.015   # Taxa de crescimento populacional Pais B - 1,5%
 Tempo = 0
 
 while True:
-    Pais_A += (Pais_A * Taxa_A)
-    Pais_B += (Pais_B * Taxa_B)
+    Pais_A += int(Pais_A * Taxa_A)
+    Pais_B += int(Pais_B * Taxa_B)
     Tempo += 1
     if Pais_A > Pais_B:
         Dif = int(Pais_A - Pais_B)
